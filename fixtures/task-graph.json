@@ -1,0 +1,8 @@
+{
+  "nodes": {
+    "original": { "id": "original", "type": "Branch", "auto": { "title": "Synthetic original branch", "parentId": null }, "user": {} },
+    "chosen": { "id": "chosen", "type": "Branch", "auto": { "title": "Synthetic chosen branch", "parentId": null }, "user": {} },
+    "task": { "id": "task", "type": "Branch", "auto": { "title": "Synthetic task", "parentId": "original", "order": 0 }, "user": {} }
+  },
+  "edges": {}
+}

@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+coverage/
+runtime/
+data/
+*.log
+*.sqlite*
+*.db*
+*.pem
+*.key
+.DS_Store
