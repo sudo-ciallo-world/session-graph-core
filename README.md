@@ -26,6 +26,8 @@ Four focused regression tests passed on the prepared snapshot. They establish co
 
 ## Provenance And AI Assistance
 
+Most development took place locally before this public snapshot, first published on October 18, 2026. Public commits record the released snapshot and subsequent changes.
+
 sudo-ciallo-world conceived and led the larger application: product concept, requirements, task/state model, architecture direction, integration, debugging, validation, and acceptance criteria. Implementation and tests were developed with substantial AI-assisted coding; this repository does not claim that every line was handwritten.
 
 No pretrained model, browser platform, or external task-execution service is presented as original work. This snapshot uses platform APIs and Node built-ins without bundled third-party JavaScript libraries.
